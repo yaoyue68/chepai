@@ -9,4 +9,4 @@ Carplate
 * 支持字母如下：ABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890
 
 2022/11/16
-  号牌中字母自动变大写
+   --  号牌中字母自动变大写
