@@ -1,4 +1,4 @@
-Carplate
+
 ========
 
 用Javascript来生成小汽车车牌的预览效果图
